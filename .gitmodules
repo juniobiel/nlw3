@@ -1,0 +1,4 @@
+[submodule "web"]
+	path = web
+	url = C:/Program Files/Git/web
+	branch = web
